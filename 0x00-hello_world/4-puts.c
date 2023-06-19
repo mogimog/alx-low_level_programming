@@ -1,11 +1,11 @@
 #include <stdio.h>
 
 /**
- * Description : programming is like building a multilingual puzzle
- *
  * main - Entry point
  *
- * return: Always 0 (Success)
+ * Description: A C program that prints with put function
+ *
+ * Return: Always 0 (Success)
  */
 
 int main(void)
